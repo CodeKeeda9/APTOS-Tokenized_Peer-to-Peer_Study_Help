@@ -18,7 +18,7 @@ Get recognition or incentives for helping peers.
 Our solution tackles all of these by creating a peer-to-peer learning ecosystem where knowledge = value.
 Every time a student helps another, they earn Aptos-based tokens secured by Move smart contracts, ensuring fairness and trust.
 
-🔹 Key Features
+🔹🔑 Key Features
 
 ✨ Peer-to-Peer Matching
 Find study partners or tutors easily based on subjects, skill levels, and time availability.
@@ -64,3 +64,7 @@ Build a verified blockchain-based academic reputation system.
 Reward contribution, effort, and knowledge-sharing with real value.
 
 With APTOS-Tokenized Peer-to-Peer Study Help, we are creating a world where learning together is not just beneficial — it’s rewarding.
+💸Transaction Hash :0xbbc7dfeda2106dd0824afbc42d1114a1e058ed73f015b15d0bd9a3d5dd789dcc
+📷
+<img width="1895" height="913" alt="image" src="https://github.com/user-attachments/assets/4b97dd10-3176-489b-9e9b-af2973b67c86" />
+
