@@ -1,0 +1,15 @@
+[package]
+name = "Tokenized_Peer-to-Peer_Study_Help"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0xaa9c1b1e3332c93246bb837b14d0421167fcf4de440a3226e189989b55695438"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
